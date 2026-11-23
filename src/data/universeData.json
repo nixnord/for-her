@@ -1,0 +1,275 @@
+{
+  "requiredStarCountForFinale": 10,
+  "nasaSkyboxTextureUrl": "/textures/nasa_milkyway_4k.jpg",
+  "interactiveStars": [
+    {
+      "id": "star_vega",
+      "associatedCatalogStar": "Vega",
+      "category": "constellation_node",
+      "constellationId": "summer_triangle",
+      "coordinates": { "raHours": 18.615, "decDeg": 38.78, "radius": 200 },
+      "coreColorHex": "#ffffff",
+      "haloColorHex": "#9bc4ff",
+      "sizeMultiplier": 1.35,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 1 — replace with your message for Vega.",
+        "chimeTone": "C4"
+      }
+    },
+    {
+      "id": "star_deneb",
+      "associatedCatalogStar": "Deneb",
+      "category": "constellation_node",
+      "constellationId": "summer_triangle",
+      "coordinates": { "raHours": 20.69, "decDeg": 45.28, "radius": 200 },
+      "coreColorHex": "#ffffff",
+      "haloColorHex": "#b4d5ff",
+      "sizeMultiplier": 1.25,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 2 — replace with your message for Deneb.",
+        "chimeTone": "D4"
+      }
+    },
+    {
+      "id": "star_altair",
+      "associatedCatalogStar": "Altair",
+      "category": "constellation_node",
+      "constellationId": "summer_triangle",
+      "coordinates": { "raHours": 19.846, "decDeg": 8.87, "radius": 200 },
+      "coreColorHex": "#fff8ed",
+      "haloColorHex": "#ffe0b2",
+      "sizeMultiplier": 1.2,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 3 — replace with your message for Altair.",
+        "chimeTone": "E4"
+      }
+    },
+    {
+      "id": "star_betelgeuse",
+      "associatedCatalogStar": "Betelgeuse",
+      "category": "constellation_node",
+      "constellationId": "orion_guardians",
+      "coordinates": { "raHours": 5.92, "decDeg": 7.41, "radius": 200 },
+      "coreColorHex": "#fff0e6",
+      "haloColorHex": "#ff8a5c",
+      "sizeMultiplier": 1.4,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 4 — replace with your message for Betelgeuse.",
+        "chimeTone": "G4"
+      }
+    },
+    {
+      "id": "star_rigel",
+      "associatedCatalogStar": "Rigel",
+      "category": "constellation_node",
+      "constellationId": "orion_guardians",
+      "coordinates": { "raHours": 5.242, "decDeg": -8.2, "radius": 200 },
+      "coreColorHex": "#f4f8ff",
+      "haloColorHex": "#8abaff",
+      "sizeMultiplier": 1.35,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 5 — replace with your message for Rigel.",
+        "chimeTone": "A4"
+      }
+    },
+    {
+      "id": "star_alnilam",
+      "associatedCatalogStar": "Alnilam",
+      "category": "constellation_node",
+      "constellationId": "orion_guardians",
+      "coordinates": { "raHours": 5.603, "decDeg": -1.2, "radius": 200 },
+      "coreColorHex": "#ffffff",
+      "haloColorHex": "#b0d4ff",
+      "sizeMultiplier": 1.25,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 6 — replace with your message for Alnilam.",
+        "chimeTone": "C5"
+      }
+    },
+    {
+      "id": "star_sirius",
+      "associatedCatalogStar": "Sirius",
+      "category": "standalone_memory",
+      "coordinates": { "raHours": 6.752, "decDeg": -16.72, "radius": 200 },
+      "coreColorHex": "#ffffff",
+      "haloColorHex": "#82b1ff",
+      "sizeMultiplier": 1.5,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 7 — replace with your message for Sirius.",
+        "chimeTone": "D5"
+      }
+    },
+    {
+      "id": "star_polaris",
+      "associatedCatalogStar": "Polaris",
+      "category": "standalone_memory",
+      "coordinates": { "raHours": 2.53, "decDeg": 89.26, "radius": 200 },
+      "coreColorHex": "#fffbf0",
+      "haloColorHex": "#ffd54f",
+      "sizeMultiplier": 1.3,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 8 — replace with your message for Polaris.",
+        "chimeTone": "E5"
+      }
+    },
+    {
+      "id": "star_pleiades",
+      "associatedCatalogStar": "Alcyone (Pleiades)",
+      "category": "standalone_memory",
+      "coordinates": { "raHours": 3.79, "decDeg": 24.11, "radius": 200 },
+      "coreColorHex": "#f0f8ff",
+      "haloColorHex": "#bbdefb",
+      "sizeMultiplier": 1.3,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 9 — replace with your message for Alcyone (Pleiades).",
+        "chimeTone": "G5"
+      }
+    },
+    {
+      "id": "star_arcturus",
+      "associatedCatalogStar": "Arcturus",
+      "category": "standalone_memory",
+      "coordinates": { "raHours": 14.26, "decDeg": 19.18, "radius": 200 },
+      "coreColorHex": "#fff3e0",
+      "haloColorHex": "#ffb74d",
+      "sizeMultiplier": 1.3,
+      "unveilsFinaleProgress": true,
+      "content": {
+        "narrativeText": "Placeholder message 10 — replace with your message for Arcturus.",
+        "chimeTone": "A5"
+      }
+    },
+    {
+      "id": "finale-1",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 0.85, "decDeg": 56.5, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.0,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    },
+    {
+      "id": "finale-2",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 1.0, "decDeg": 53.5, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.0,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    },
+    {
+      "id": "finale-3",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 1.15, "decDeg": 56.5, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.0,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    },
+    {
+      "id": "finale-4",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 1.25, "decDeg": 52.0, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.0,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    },
+    {
+      "id": "finale-5",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 1.0, "decDeg": 46.0, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.2,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    },
+    {
+      "id": "finale-6",
+      "category": "finale_anchor",
+      "coordinates": { "raHours": 0.75, "decDeg": 52.0, "radius": 200 },
+      "coreColorHex": "#fff6e0",
+      "haloColorHex": "#ff8da1",
+      "sizeMultiplier": 1.0,
+      "unveilsFinaleProgress": false,
+      "content": { "narrativeText": "", "chimeTone": "C5" }
+    }
+  ],
+  "constellations": [
+    {
+      "id": "summer_triangle",
+      "name": "The Summer Triangle",
+      "storySnippet": "Three hidden messages woven between Vega, Deneb, and Altair.",
+      "themeColorHex": "#70b5ff",
+      "memberStarIds": ["star_vega", "star_deneb", "star_altair"],
+      "connections": [
+        { "fromStarId": "star_vega", "toStarId": "star_deneb" },
+        { "fromStarId": "star_deneb", "toStarId": "star_altair" },
+        { "fromStarId": "star_altair", "toStarId": "star_vega" }
+      ]
+    },
+    {
+      "id": "orion_guardians",
+      "name": "Orion's Guardians",
+      "storySnippet": "Betelgeuse, Rigel, and Alnilam standing sentinel in the winter sky.",
+      "themeColorHex": "#ffaa66",
+      "memberStarIds": ["star_betelgeuse", "star_rigel", "star_alnilam"],
+      "connections": [
+        { "fromStarId": "star_betelgeuse", "toStarId": "star_alnilam" },
+        { "fromStarId": "star_alnilam", "toStarId": "star_rigel" }
+      ]
+    }
+  ],
+  "nebulae": [
+    {
+      "id": "orion-m42",
+      "coordinates": { "raHours": 5.58, "decDeg": -5.38, "radius": 340 },
+      "quadScale": [180, 140],
+      "tintColorHex": "#ff6fa2",
+      "particleDensity": 0.85
+    },
+    {
+      "id": "galactic-center-nebula",
+      "coordinates": { "raHours": 17.76, "decDeg": -28.9, "radius": 340 },
+      "quadScale": [220, 160],
+      "tintColorHex": "#ff80ab",
+      "particleDensity": 0.75
+    }
+  ],
+  "finale": {
+    "targetCoordinates": { "raHours": 1.0, "decDeg": 52.0, "radius": 200 },
+    "birthdayStarIds": ["finale-1", "finale-2", "finale-3", "finale-4", "finale-5", "finale-6"],
+    "constellationEdges": [
+      { "fromStarId": "finale-2", "toStarId": "finale-1" },
+      { "fromStarId": "finale-1", "toStarId": "finale-6" },
+      { "fromStarId": "finale-6", "toStarId": "finale-5" },
+      { "fromStarId": "finale-5", "toStarId": "finale-4" },
+      { "fromStarId": "finale-4", "toStarId": "finale-3" },
+      { "fromStarId": "finale-3", "toStarId": "finale-2" }
+    ],
+    "letterContent": {
+      "title": "Placeholder Title",
+      "salutation": "Placeholder Salutation,",
+      "bodyParagraphs": [
+        "Placeholder closing paragraph 1.",
+        "Placeholder closing paragraph 2."
+      ],
+      "closing": "Placeholder closing,",
+      "signature": "Placeholder signature"
+    }
+  }
+}
